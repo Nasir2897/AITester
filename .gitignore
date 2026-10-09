@@ -78,3 +78,4 @@ screenshots/
 auth_state.json
 test_plan_*.json
 **/rag_corpus/.index.npz
+.gstack/
